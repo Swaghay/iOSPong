@@ -16,6 +16,7 @@
 		37786D1725A612AA00E92B32 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37786D1625A612AA00E92B32 /* Assets.xcassets */; };
 		37786D2225A612AB00E92B32 /* pongTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37786D2125A612AB00E92B32 /* pongTests.swift */; };
 		37786D2D25A612AB00E92B32 /* pongUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37786D2C25A612AB00E92B32 /* pongUITests.swift */; };
+		37ACF53625A76E8000FB381D /* LLPIXEL3.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 37ACF53525A76E8000FB381D /* LLPIXEL3.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		37786D2825A612AB00E92B32 /* pongUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pongUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		37786D2C25A612AB00E92B32 /* pongUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pongUITests.swift; sourceTree = "<group>"; };
 		37786D2E25A612AB00E92B32 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37ACF53525A76E8000FB381D /* LLPIXEL3.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = LLPIXEL3.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		37786D0825A612A600E92B32 /* pong */ = {
 			isa = PBXGroup;
 			children = (
+				37ACF53525A76E8000FB381D /* LLPIXEL3.ttf */,
 				37786D0925A612A600E92B32 /* AppDelegate.swift */,
 				37786D0B25A612A600E92B32 /* GameScene.sks */,
 				37786D0D25A612A600E92B32 /* Actions.sks */,
@@ -235,6 +238,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				37786D1525A612A600E92B32 /* Main.storyboard in Resources */,
+				37ACF53625A76E8000FB381D /* LLPIXEL3.ttf in Resources */,
 				37786D0C25A612A600E92B32 /* GameScene.sks in Resources */,
 				37786D1725A612AA00E92B32 /* Assets.xcassets in Resources */,
 				37786D0E25A612A600E92B32 /* Actions.sks in Resources */,
